@@ -8,3 +8,7 @@ function add(a, b) {
 function log(message) {
   console.log(message);
 }
+
+function myCode(sushi) {
+  console.log(sushi);
+}
